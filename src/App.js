@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   ArrowRight, 
   CheckCircle2, 
